@@ -16,7 +16,7 @@
 
 🎥 PEQUEÑO ESTUDIANTE que desea aumentar sus conocimientos 📚 a través mucho estudio y sacrificio😵
 
-💻 Actualmente en 6to Ciclo de la carrear Ingeniería de Sistemas.
+💻 Actualmente en 6to Ciclo de la Facultad Ingeniería de Sistemas.
 
 📫 Contacto: **aunnodefinido@gmail.com**
 <!--Intro end-->
