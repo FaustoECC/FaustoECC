@@ -14,7 +14,7 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS
 
-🎥 PEQUEÑO ESTUDIANTE que desea aumentar sus conocimientos 📚 a través mucho estudio y sacrificio😵
+🌐 PEQUEÑO ESTUDIANTE que desea aumentar sus conocimientos 📚 a través mucho estudio y sacrificio😵
 
 💻 Actualmente en 6to Ciclo de la Facultad Ingeniería de Sistemas.
 
