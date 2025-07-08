@@ -12,15 +12,13 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 INGENIERO EN SISTEMAS
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 PEQUEÑO ESTUDIANTE que desea aumentar sus conocimientos 📚 a través mucho estudio y sacrificio😵
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 Actualmente en 6to Ciclo de la carrear Ingeniería de Sistemas.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **aunnodefinido@gmail.com**
 <!--Intro end-->
   </p>
 <br>
